@@ -5,4 +5,6 @@ class Post
     @title = title
     @name = name
   end
+  
+  post.author = author
 end
