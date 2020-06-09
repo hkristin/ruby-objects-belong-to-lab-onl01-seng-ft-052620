@@ -6,5 +6,5 @@ class Post
     @name = name
   end
   
-  post.author = author
+  post.author= author
 end
